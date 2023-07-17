@@ -1,0 +1,25 @@
+{
+  "name": "crud_news_02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FATBEU1001/CRUD_API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FATBEU1001/CRUD_API/issues"
+  },
+  "homepage": "https://github.com/FATBEU1001/CRUD_API#readme",
+  "dependencies": {
+    "json-server": "^0.17.3",
+    "nodemon": "^3.0.1"
+  }
+}
